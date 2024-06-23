@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:jikan_api/jikan_api.dart';
+import 'package:jikan_dart/jikan_dart.dart';
 import 'package:test/test.dart';
 
 void main() {

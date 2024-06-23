@@ -1,9 +1,9 @@
-# jikan_api
+# jikan_dart
 
 [Jikan](https://jikan.moe/) is an **Unofficial** MyAnimeList API. It scrapes the website to satisfy the need for a complete API - which MyAnimeList lacks.
 
 [![Build Status](https://github.com/javoeria/jikan-dart/actions/workflows/dart.yml/badge.svg?branch=master)](https://github.com/javoeria/jikan-dart/actions/workflows/dart.yml)
-[![pub package](https://img.shields.io/pub/v/jikan_api.svg)](https://pub.dev/packages/jikan_api)
+[![pub package](https://img.shields.io/pub/v/jikan_dart.svg)](https://pub.dev/packages/jikan_dart)
 
 ### Anime
 

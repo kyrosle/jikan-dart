@@ -3,9 +3,9 @@ library watch_episode;
 import 'package:built_collection/built_collection.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
-import 'package:jikan_api/src/model/anime/episode.dart';
-import 'package:jikan_api/src/model/common/entry_meta.dart';
-import 'package:jikan_api/src/model/serializers.dart';
+import 'package:jikan_dart/src/model/anime/episode.dart';
+import 'package:jikan_dart/src/model/common/entry_meta.dart';
+import 'package:jikan_dart/src/model/serializers.dart';
 
 part 'watch_episode.g.dart';
 
